@@ -30,7 +30,7 @@ The line-following car project works by using infrared sensors to detect the bla
 ![Circuit Diagram](https://github.com/Hershit-shukla/Line-Following-Car/blob/main/CircuitDiagram.PNG)
 
 ### Installation
-1. Install the [AFMotor library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_Motor_Shield_library-1.0.1.zip). Go to Sketch > Include Library > Add .ZIP Library > Select AF Motor ZIP file.
+1. Install the AFMotor library. Go to Sketch > Include Library > Add .ZIP Library > Select AF Motor ZIP file.
 2. Connect the motor driver and infrared sensor to the Uno board.
 3. Upload the code to the Uno board using the Arduino IDE.
 4. Power the circuit using a 9V battery.
