@@ -6,6 +6,10 @@
 
 A line following car built using an Uno Arduino, motor driver, and infrared sensor. The car is programmed to follow a black line on a white surface and adjust its movement using the sensor input.
 
+### Working
+
+The line-following car project works by using infrared sensors to detect the black line on a white surface. The sensors are placed underneath the car and are used to determine the position of the line relative to the car. The car is equipped with four motors, which are controlled by an Arduino board using the AFMotor library. The car is programmed to move forward when both sensors detect the line, turn left when only the left sensor detects the line, turn right when only the right sensor detects the line, and stop when neither sensor detects the line.
+
 ## Team Members
 - Smriti Shukla
 - Samyak Jain
