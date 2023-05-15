@@ -27,7 +27,7 @@ The line-following car project works by using infrared sensors to detect the bla
 - [AFMotor library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_Motor_Shield_library-1.0.1.zip)
 
 ## Circuit Diagram
-![Circuit Diagram](https://github.com/Hershit-shukla/Line-Following-Car/blob/main/CircuitDiagram.PNG)
+![Circuit Diagram](/CircuitDiagram.PNG)
 
 ### Installation
 1. Install the AFMotor library. Go to Sketch > Include Library > Add .ZIP Library > Select AF Motor ZIP file.
